@@ -1,2 +1,3 @@
-# CCT
-programa de cálculo t
+# Images
+
+Repositório de imagens para a Wiki
